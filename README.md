@@ -7,3 +7,9 @@ I went through the Kickstarter Dataset excel file that was provided to me by the
 For the first part of project, I have created **a new column U “Year”** in order to extract the year from the “Date Created Conversion” column S. 
 Please see below the Kickstarter worksheet screen shot:
 ![Kickstarter_Screen_Shot](Kickstarter_Screen_Shot.png);
+I have used a pivot table method and graphing in Excel file to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date from 2010 to 2017. 
+I have reviewed the data that was given me. I have created a new worksheet “Theater Outcomes by Launch Date”. Then, I filtered the pivot table based on "Parent Category" and "Years." Next, I placed the appropriate pivot table fields in the columns, rows, and values. Finally, I filtered the column labels to show only "successful," "failed," and "canceled."
+Also, I filtered the "Parent Category" to show only the data for "theater” and sorted the campaign outcomes in descending order so "successful" is first.
+As a result, I created a line chart from the pivot table to visualize the relationship between outcomes and launch month. 
+Please see below the “Theater Outcomes by Launch Date” screen shot:
+![]();
