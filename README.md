@@ -6,3 +6,4 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 I went through the Kickstarter Dataset excel file that was provided to me by the client. I have identified certain columns with specific data that I will be using in my analysis. There is column D “Goal”, column F “Outcomes”, column Q “Parent category”, column R “Subcategory”, column S “Date Created Conversion”. 
 For the first part of project, I have created **a new column U “Year”** in order to extract the year from the “Date Created Conversion” column S. 
 Please see below the Kickstarter worksheet screen shot:
+![Kickstarter_Screen_Shot](Kickstarter_Screen_Shot.png);
