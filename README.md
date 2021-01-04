@@ -19,3 +19,9 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>For the second part of the project, in order for me to analyze the outcomes based on goals, I have tried to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. I have used COUNTIFS() function in the excel worksheet to collect the outcome and goal data for the “plays” subcategory.</br> 
 <br>In a new worksheet “Outcomes Based on Goals”, I have created the following columns to hold the data: goal, number successful, number failed, number canceled, total projects, percentage successful, percentage failed and percentage canceled.</br>
 <br>In the “Goal” column, I created the following dollar-amount ranges so projects can be grouped based on their goal amount.</br>
+[Goal](Goal.png)
+<br>I calculated the percentage of successful, failed, and canceled projects for each row.</br>
+<br>Please see below the Outcomes Based on Goals screen shot:</br>
+<br></br>
+<br></br>
+<br></br>
