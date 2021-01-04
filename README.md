@@ -26,9 +26,14 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>I have created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.</br>
 <br>![Line_Chart_Screen_Shot](Line_Chart_Screen_Shot.png)</br>
 ### Analysis of Outcomes Based on Launch Date
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br>![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)</br>
+<br>Outcomes Based on Launch Date Chart shows the number of successful, failed, or canceled theater projects by month.</br>
+<br>I concluded from the “Theater Outcomes Based on Launch Date” line chart:</br>
+<br>1.	The most active month for theater campaigns is May, there is a spike of a successful outcomes in a graph with 111 campaigns.
+2.	When comparing a data for the whole year from the above chart we can see that the peak months were May-July.  The number of outcomes were equal or higher than 72 per month.
+3.	The graph also shows the highest number of cancelled projects in January, there were 7 projects cancelled.
+4.	From October to December we can see a decline where number of successful theater outcomes is almost equal to failed once.  
+</br>
+### Analysis of Outcomes Based on Goals
 <br></br>
 <br></br>
