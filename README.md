@@ -48,7 +48,7 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>1.	When comparing a data for the whole year from the above chart we can see that the peak months were May-July (the number of outcomes were equal or higher than 72 per month).</br>
 <br>2.	From October to December we can see a decline where number of successful theater outcomes is almost equal to failed once.  </br>
 <br>The conclusion about the Outcomes based on Goals chart is that all plays projects with a goal less than $5000 were most successful, with the successful percentage more than 73%. </br>
-**Appendix 1** (I have created two additional charts below):</br>
+<br>**Appendix 1** (I have created two additional charts below):</br>
 <br>1.	Theater Sum of Average Donation. What we can see from below chart is that the most funded months are May-July. Sum of average donation is from $5,176-$14,323 through all the year.</br>
 <br>![Theater_Sum_of_Average_Donation](Theater_Sum_of_Average_Donation.png)</br>
 <br>2.	“Plays” descriptive statistics. Mean and median goals measure of central tendency of successful and failed plays campaigns. The chart  tells us what is mean, median, upper/lower quartile/IQR of goal and pledged.  </br>
