@@ -29,11 +29,29 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)</br>
 <br>Outcomes Based on Launch Date Chart shows the number of successful, failed, or canceled theater projects by month.</br>
 <br>I concluded from the “Theater Outcomes Based on Launch Date” line chart:</br>
-<br>1.	The most active month for theater campaigns is May, there is a spike of a successful outcomes in a graph with 111 campaigns.
-2.	When comparing a data for the whole year from the above chart we can see that the peak months were May-July.  The number of outcomes were equal or higher than 72 per month.
-3.	The graph also shows the highest number of cancelled projects in January, there were 7 projects cancelled.
-4.	From October to December we can see a decline where number of successful theater outcomes is almost equal to failed once.  
+<br>1.	The most active month for theater campaigns is May, there is a spike of a successful outcomes in a graph with 111 campaigns.</br>
+<br>2.	When comparing a data for the whole year from the above chart we can see that the peak months were May-July.  The number of outcomes were equal or higher than 72 per month.</br>
+<br>3.	The graph also shows the highest number of cancelled projects in January, there were 7 projects cancelled.</br>
+<br>4.	From October to December we can see a decline where number of successful theater outcomes is almost equal to failed once.  
 </br>
 ### Analysis of Outcomes Based on Goals
+<br>![Goal_percentage](Goal_percentage.png)</br>
+<br>From the above graph you can see that all projects with a goal less than $5000 were most successful, with the successful percentage more than 73%.</br>
+<br>From the same graph we can see plays with the most funding have failed with the results lower than 20%.</br>
+<br>If we summarize the total percentage we get 66% successful and 33% failed total of all projects</br>
+### Challenges and Difficulties Encountered
+<br>I had no difficulties working with the data from the Kickstarter worksheet. My recommendation will be to add two charts below (to provide a clearer picture to the client):</br>
+<br>*Sum of Average Donation</br>
+<br>*Descriptive statistics. (See Appendix 1)</br>
+## Results
+<br>To summarise my analysis, I have two conclusions that I can draw about the Theater Outcomes by Launch Date:</br>
+<br>1.	When comparing a data for the whole year from the above chart we can see that the peak months were May-July (the number of outcomes were equal or higher than 72 per month).</br>
+<br>2.	From October to December we can see a decline where number of successful theater outcomes is almost equal to failed once.  </br>
+<br>The conclusion about the Outcomes based on Goals chart is that all plays projects with a goal less than $5000 were most successful, with the successful percentage more than 73%. </br>
+##**Appendix 1** (I have created two additional charts below):</br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <br></br>
 <br></br>
