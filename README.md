@@ -53,4 +53,4 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>![Theater_Sum_of_Average_Donation](Theater_Sum_of_Average_Donation .png)</br>
 <br>2.	“Plays” descriptive statistics. Mean and median goals measure of central tendency of successful and failed plays campaigns. The chart  tells us what is mean, median, upper/lower quartile/IQR of goal and pledged.  </br>
 <br></br>
-<br></br>
+<br></br>f
