@@ -41,8 +41,8 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>If we summarize the total percentage we get 66% successful and 33% failed total of all projects</br>
 ### Challenges and Difficulties Encountered
 <br>I had no difficulties working with the data from the Kickstarter worksheet. My recommendation will be to add two charts below (to provide a clearer picture to the client):</br>
-<br>*Sum of Average Donation</br>
-<br>*Descriptive statistics. (See Appendix 1)</br>
+<br>- Sum of Average Donation</br>
+<br>- Descriptive statistics. (See Appendix 1)</br>
 ## Results
 <br>To summarise my analysis, I have two conclusions that I can draw about the Theater Outcomes by Launch Date:</br>
 <br>1.	When comparing a data for the whole year from the above chart we can see that the peak months were May-July (the number of outcomes were equal or higher than 72 per month).</br>
