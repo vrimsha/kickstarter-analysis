@@ -52,4 +52,4 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>1.	Theater Sum of Average Donation. What we can see from below chart is that the most funded months are May-July. Sum of average donation is from $5,176-$14,323 through all the year.</br>
 <br>![Theater_Sum_of_Average_Donation](Theater_Sum_of_Average_Donation.png)</br>
 <br>2.	“Plays” descriptive statistics. Mean and median goals measure of central tendency of successful and failed plays campaigns. The chart  tells us what is mean, median, upper/lower quartile/IQR of goal and pledged.  </br>
-<br>![Plays_Descriptive_Statistics_Screen_Shot](Plays_Descriptive_Statistics_Screen_Shot.png)</br>
+<br>![Plays_Descriptive_Statistics](Plays_Descriptive_Statistics_Screen_Shot.png)</br>
