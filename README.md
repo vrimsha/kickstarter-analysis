@@ -6,13 +6,13 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 I went through the Kickstarter Dataset excel file that was provided to me by the client. I have identified certain columns with specific data that I will be using in my analysis. There is column D “Goal”, column F “Outcomes”, column Q “Parent category”, column R “Subcategory”, column S “Date Created Conversion”. 
 <br>For the first part of project, I have created **a new column U “Year”** in order to extract the year from the “Date Created Conversion” column S.</br>
 <br>Please see below the Kickstarter worksheet screen shot:</br>
-![Kickstarter_Screen_Shot](Kickstarter_Screen_Shot.png);
+<br>![Kickstarter_Screen_Shot](Kickstarter_Screen_Shot.png);</br>
 <br>I have used a pivot table method and graphing in Excel file to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date from 2010 to 2017.</br> 
 <br>I have reviewed the data that was given me. I have created a new worksheet “Theater Outcomes by Launch Date”. Then, I filtered the pivot table based on "Parent Category" and "Years." Next, I placed the appropriate pivot table fields in the columns, rows, and values. Finally, I filtered the column labels to show only "successful," "failed," and "canceled."</br>
 <br>Also, I filtered the "Parent Category" to show only the data for "theater” and sorted the campaign outcomes in descending order so "successful" is first.</br>
 <br>As a result, I created a line chart from the pivot table to visualize the relationship between outcomes and launch month.</br>
 <br>Please see below the “Theater Outcomes by Launch Date” screen shot:</br>
-![Screen_Shot_Pivot_Table_and_Chart](Screen_Shot_Pivot_Table_and_Chart.png);
+<br>![Screen_Shot_Pivot_Table_and_Chart](Screen_Shot_Pivot_Table_and_Chart.png);</br>
 <br>This chart shows grand total number of successful theater projects is 839;</br>
 <br>grand total number of failed theater projects is 493;</br>
 <br>grand total number of canceled theater projects is 37.</br>
