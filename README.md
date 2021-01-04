@@ -24,7 +24,8 @@ I was given Kickstarter dataset that was provided by the client. They want to kn
 <br>Please see below the Outcomes Based on Goals screen shot:</br>
 <br>![Outcomes_Based_on_Goals_Screen_Shot](Outcomes_Based_on_Goals_Screen_Shot.png)</br>
 <br>I have created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.</br>
-<br></br>
+<br>![Line_Chart_Screen_Shot](Line_Chart_Screen_Shot.png)</br>
+### Analysis of Outcomes Based on Launch Date
 <br></br>
 <br></br>
 <br></br>
